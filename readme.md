@@ -1,0 +1,2 @@
+﻿OOP
+Zadanie: Użycie "self"
